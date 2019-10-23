@@ -1,0 +1,58 @@
+.menu{
+  border: 1px solid black;
+  background-color: #333;
+  padding-top: 0;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+
+.menuButton {
+  list-style-type: none;
+  overflow: hidden;
+  background-color: #333;
+}
+
+.menuButton {
+  float: left;
+}
+
+.menuButton {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 13px 30px;
+  text-decoration: none;
+}
+
+.menuButton:hover {
+  background-color: #111;
+}
+
+.info{
+  list-style-type: disc;
+  font-weight: bold;
+}
+
+.infoDetail{
+  font-weight: normal;
+}
+
+.header{
+  background-color: lightblue;
+  padding-right: 30px;
+  padding-left: 100px;
+}
+
+.infoBox{
+  border: 1px solid black;
+  background-color: lightblue;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+
+#title{
+  background-color: #111;
+}
